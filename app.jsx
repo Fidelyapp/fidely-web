@@ -688,7 +688,7 @@ function FinalCTA() {
     setSending(false);
     setSent(true);
   };
-  const errStyle = { color: '#DC2626', fontSize: 12, fontFamily: 'DM Sans',sans-serif, marginTop: 4, display: 'block' };
+  const errStyle = { color: '#DC2626', fontSize: 12, fontFamily: "'DM Sans',sans-serif", marginTop: 4, display: 'block' };
   return (
     <section className="final-cta" id="cta">
       <div className="container">
