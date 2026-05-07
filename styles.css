@@ -28,7 +28,7 @@ html, body { margin: 0; padding: 0; }
 body {
   font-family: var(--body);
   color: var(--navy);
-  background: var(--white);
+  background: #F7F8FA;
   -webkit-font-smoothing: antialiased;
   font-size: 16px;
   line-height: 1.55;

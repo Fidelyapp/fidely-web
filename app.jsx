@@ -619,7 +619,6 @@ function FAQ() {
   { q: '¿Puedo decidir qué membresías y precios ofrecer?', a: 'Total libertad. Tú decides los niveles, los precios, los beneficios y los tratamientos incluidos. Te asesoramos partiendo del modelo que ya funciona en UK, pero la decisión final es tuya.' },
   { q: '¿Mis clientes tienen que descargar otra app más?', a: 'Sí, pero es la TUYA — con tu marca, tu logo y tu nombre. No descargan "Fidely". Descargan "Clínica Aurora" o como se llame tu negocio.' },
   { q: '¿Cómo funciona el sistema de pagos?', a: 'Integramos Stripe y SEPA. Los cobros recurrentes se ejecutan automáticamente cada mes. El dinero llega a tu cuenta directamente; nosotros cobramos solo el plan SaaS.' },
-  { q: '¿Fidely funciona si ya tengo Koibox o Flowww?', a: 'Sí. En el plan Premium integramos vía API con los principales softwares de gestión clínica. En Básico y Pro funciona en paralelo sin conflictos.' },
   { q: '¿Qué pasa si quiero cancelar?', a: 'En fase de lanzamiento no hay permanencia mínima. Cancelas con un mes de aviso y te llevas todos los datos de tus clientes en formato exportable.' },
   { q: '¿Tenéis casos de éxito en España?', a: 'Estamos arrancando con las primeras 5 clínicas españolas (gratis durante 3 meses, plan Founders). Los casos del UK que ves en la web son del mismo modelo aplicado por DermisApp; replicamos esa fórmula adaptada al mercado español.' }];
 
